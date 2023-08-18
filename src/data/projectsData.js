@@ -6,7 +6,7 @@ export const projectsData = [
     languages: ["React", "Javascript", "Sass"],
     infos:
       "Vous aimez cuisiner ? Notre site contient des recettes de cuisine du monde entier qui raviront les amateurs de bonnes nourritures. Filtrez vos recettes pour trouver celle qui vous conviens avec votre ingrédient préféré",
-    img: "./assets/img/projet-2.jpg",
+    img: "./assets/img/iamcooking1.jpg",
     link: "https://iamcooking.netlify.app",
   },
   {
@@ -16,24 +16,24 @@ export const projectsData = [
     languages: ["React", "Javascript", "Sass"],
     infos:
       "Vous chercher un bon film à regarder ? Parcourez notre site et ajoutez vos films préférés à vos coups de coeur pour les visionner plus tard.",
-    img: "./assets/img/projet-1.jpg",
+    img: "./assets/img/mymovee.jpg",
     link: "https://mymovee.netlify.app",
   },
   {
     id: 3,
-    title: "Everpost",
-    date: "Avril 2020",
-    languages: ["Wordpress", "Php", "React"],
+    title: "Crypto-Watching",
+    date: "juillet 2023",
+    languages: ["React", "Node", "Redux"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
-    img: "./assets/img/projet-3.jpg",
+      "Suivez le cours de vos cryptomonnaies favorite en gardant un oeil attentif sur les variations du marché",
+    img: "./assets/img/cryptowatch.jpg",
     link: "https://crypto-watching.netlify.app",
   },
   {
     id: 4,
     title: "Creative Dev",
-    date: "Juillet 2020",
-    languages: ["Vue", "Php"],
+    date: "Août 2023",
+    languages: ["docker", "node.js"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
     img: "./assets/img/projet-4.jpg",
