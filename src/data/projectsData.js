@@ -27,7 +27,7 @@ export const projectsData = [
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
     img: "./assets/img/projet-3.jpg",
-    link: "http://www.google.com",
+    link: "https://crypto-watching.netlify.app",
   },
   {
     id: 4,
