@@ -13,7 +13,7 @@ export const projectsData = [
     id: 2,
     title: "mymovee",
     date: "juin 2023",
-    languages: ["React", "Javascript", "Sass"],
+    languages: ["Javascript", "React", "Sass"],
     infos:
       "Vous chercher un bon film à regarder ? Parcourez notre site et ajoutez vos films préférés à vos coups de coeur pour les visionner plus tard.",
     img: "./assets/img/mymovee.jpg",
@@ -23,7 +23,7 @@ export const projectsData = [
     id: 3,
     title: "Crypto-Watching",
     date: "juillet 2023",
-    languages: ["React", "Node", "Redux"],
+    languages: ["React", "Redux", "NodeJS",],
     infos:
       "Suivez le cours de vos cryptomonnaies favorite en gardant un oeil attentif sur les variations du marché",
     img: "./assets/img/cryptowatch.jpg",
@@ -31,12 +31,12 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Creative Dev",
+    title: "MyliB",
     date: "Août 2023",
-    languages: ["docker", "node.js"],
+    languages: ["React", "Redux", "NodeJS", "MongoDB"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
-    img: "./assets/img/projet-4.jpg",
+      "Profitez de notre collection de livre, découvrez leur auteur et ajoutez les à votre liste de favories ! ",
+    img: "./assets/img/library.jpg",
     link: "http://www.google.com",
   },
 ];
